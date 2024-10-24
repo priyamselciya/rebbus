@@ -1,0 +1,317 @@
+state_names,routes,links
+APSRTC,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada
+APSRTC,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad
+APSRTC,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole
+APSRTC,Kakinada to Visakhapatnam,https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam
+APSRTC,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi
+APSRTC,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa
+APSRTC,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad
+APSRTC,Kadapa to Bangalore,https://www.redbus.in/bus-tickets/kadapa-to-bangalore
+APSRTC,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore
+APSRTC,Visakhapatnam to Kakinada,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada
+APSRTC,Bangalore to Anantapur (andhra pradesh),https://www.redbus.in/bus-tickets/bangalore-to-ananthapur
+APSRTC,Bangalore to Chittoor (Andhra Pradesh),https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh
+APSRTC,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore
+APSRTC,Hyderabad to Kurnool,https://www.redbus.in/bus-tickets/hyderabad-to-kurnool
+APSRTC,Tirupati to Bangalore,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore
+APSRTC,Narasaraopet to Hyderabad,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad
+APSRTC,Vinukonda to Hyderabad,https://www.redbus.in/bus-tickets/vinukonda-to-hyderabad
+APSRTC,Hyderabad to Vinukonda,https://www.redbus.in/bus-tickets/hyderabad-to-vinukonda
+APSRTC,Visakhapatnam to Vijayawada,https://www.redbus.in/bus-tickets/visakhapatnam-to-vijayawada
+APSRTC,Bangalore to Rayachoti,https://www.redbus.in/bus-tickets/bangalore-to-rayachoti
+APSRTC,Hyderabad to Guntur (Andhra Pradesh),https://www.redbus.in/bus-tickets/hyderabad-to-guntur
+APSRTC,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad
+APSRTC,Hyderabad to Eluru,https://www.redbus.in/bus-tickets/hyderabad-to-eluru
+APSRTC,Eluru to Hyderabad,https://www.redbus.in/bus-tickets/eluru-to-hyderabad
+APSRTC,Bangalore to Kadiri,https://www.redbus.in/bus-tickets/bangalore-to-kadiri
+APSRTC,Madanapalli to Bangalore,https://www.redbus.in/bus-tickets/madanapalli-to-bangalore
+APSRTC,Bangalore to Madanapalli,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli
+APSRTC,Macherla (andhra pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/macherla-to-hyderabad
+APSRTC,Rajahmundry to Visakhapatnam,https://www.redbus.in/bus-tickets/rajahmundry-to-visakhapatnam
+APSRTC,Nandyal to Hyderabad,https://www.redbus.in/bus-tickets/nandyala-to-hyderabad
+APSRTC,Rayachoti to Bangalore,https://www.redbus.in/bus-tickets/rayachoti-to-bangalore
+APSRTC,Kurnool to Hyderabad,https://www.redbus.in/bus-tickets/kurnool-to-hyderabad
+APSRTC,Kadiri to Bangalore,https://www.redbus.in/bus-tickets/kadiri-to-bangalore
+APSRTC,Visakhapatnam to Rajahmundry,https://www.redbus.in/bus-tickets/visakhapatnam-to-rajahmundry
+APSRTC,Hyderabad to Addanki,https://www.redbus.in/bus-tickets/hyderabad-to-addanki
+APSRTC,Hyderabad to Anantapur (andhra pradesh),https://www.redbus.in/bus-tickets/hyderabad-to-ananthapur
+APSRTC,Hyderabad to Markapuram,https://www.redbus.in/bus-tickets/hyderabad-to-markapuram
+APSRTC,Rajahmundry to Vijayawada,https://www.redbus.in/bus-tickets/rajahmundry-to-vijayawada
+APSRTC,Tirupati to Chennai,https://www.redbus.in/bus-tickets/tirupathi-to-chennai
+APSRTC,Vijayawada to Visakhapatnam,https://www.redbus.in/bus-tickets/vijayawada-to-visakhapatnam
+APSRTC,Hyderabad to Macherla (andhra pradesh),https://www.redbus.in/bus-tickets/hyderabad-to-macherla
+APSRTC,Hyderabad to Rajahmundry,https://www.redbus.in/bus-tickets/hyderabad-to-rajahmundry
+APSRTC,Chilakaluripet to Hyderabad,https://www.redbus.in/bus-tickets/chilakaluripet-to-hyderabad
+APSRTC,Rajahmundry to Hyderabad,https://www.redbus.in/bus-tickets/rajahmundry-to-hyderabad
+APSRTC,Kurnool to Bangalore,https://www.redbus.in/bus-tickets/kurnool-to-bangalore
+APSRTC,Hyderabad to Nandyal,https://www.redbus.in/bus-tickets/hyderabad-to-nandyala
+Kerala,Bangalore to Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode
+Kerala,Kozhikode to Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore
+Kerala,Kozhikode to Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam
+Kerala,Ernakulam to Kozhikode,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode
+Kerala,Bangalore to Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur
+Kerala,Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore
+Kerala,Kannur to Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore
+Kerala,Kozhikode to Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram
+Kerala,Mysore to Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode
+Kerala,Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta
+Kerala,Kalpetta (kerala) to Bangalore,https://www.redbus.in/bus-tickets/kalpetta-to-bangalore
+Kerala,Thiruvananthapuram to Kozhikode,https://www.redbus.in/bus-tickets/thiruvananthapuram-to-kozhikode
+Kerala,Kozhikode to Thrissur,https://www.redbus.in/bus-tickets/kozhikode-to-thrissur
+Kerala,Kozhikode to Kottayam,https://www.redbus.in/bus-tickets/kozhikode-to-kottayam
+Kerala,Kottayam to Kozhikode,https://www.redbus.in/bus-tickets/kottayam-to-kozhikode
+TSRTC Online Bus Ticket Booking,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada
+TSRTC Online Bus Ticket Booking,Khammam to Hyderabad,https://www.redbus.in/bus-tickets/khammam-to-hyderabad
+TSRTC Online Bus Ticket Booking,Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam
+TSRTC Online Bus Ticket Booking,Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam
+TSRTC Online Bus Ticket Booking,Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad
+TSRTC Online Bus Ticket Booking,Hyderabad to Karimnagar,https://www.redbus.in/bus-tickets/hyderabad-to-karimnagar
+TSRTC Online Bus Ticket Booking,Hyderabad to Mancherial,https://www.redbus.in/bus-tickets/hyderabad-to-mancherial
+TSRTC Online Bus Ticket Booking,Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal
+TSRTC Online Bus Ticket Booking,Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad
+TSRTC Online Bus Ticket Booking,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole
+TSRTC Online Bus Ticket Booking,Kothagudem to Hyderabad,https://www.redbus.in/bus-tickets/kothagudem-to-hyderabad
+TSRTC Online Bus Ticket Booking,Guntur (Andhra Pradesh) to Hyderabad,https://www.redbus.in/bus-tickets/guntur-to-hyderabad
+TSRTC Online Bus Ticket Booking,Hyderabad to Guntur (Andhra Pradesh),https://www.redbus.in/bus-tickets/hyderabad-to-guntur
+TSRTC Online Bus Ticket Booking,Godavarikhani to Hyderabad,https://www.redbus.in/bus-tickets/godavarikhani-to-hyderabad
+TSRTC Online Bus Ticket Booking,Hyderabad to Kothagudem,https://www.redbus.in/bus-tickets/hyderabad-to-kothagudem
+TSRTC Online Bus Ticket Booking,Hyderabad to Sathupally,https://www.redbus.in/bus-tickets/hyderabad-to-sathupalli
+TSRTC Online Bus Ticket Booking,Hyderabad to Warangal,https://www.redbus.in/bus-tickets/hyderabad-to-warangal
+TSRTC Online Bus Ticket Booking,Kodad to Hyderabad,https://www.redbus.in/bus-tickets/kodad-to-hyderabad
+TSRTC Online Bus Ticket Booking,Jagityal to Hyderabad,https://www.redbus.in/bus-tickets/jagityal-to-hyderabad
+TSRTC Online Bus Ticket Booking,Hyderabad to Bhadrachalam,https://www.redbus.in/bus-tickets/hyderabad-to-bhadrachalam
+TSRTC Online Bus Ticket Booking,Hyderabad to Tirupati,https://www.redbus.in/bus-tickets/hyderabad-to-tirupathi
+TSRTC Online Bus Ticket Booking,Hyderabad to Godavarikhani,https://www.redbus.in/bus-tickets/hyderabad-to-godavarikhani
+TSRTC Online Bus Ticket Booking,Hyderabad to Armoor,https://www.redbus.in/bus-tickets/hyderabad-to-armoor
+TSRTC Online Bus Ticket Booking,Hyderabad to Nandyal,https://www.redbus.in/bus-tickets/hyderabad-to-nandyala
+TSRTC Online Bus Ticket Booking,Hyderabad to Kodad,https://www.redbus.in/bus-tickets/hyderabad-to-kodad
+TSRTC Online Bus Ticket Booking,Hyderabad to Addanki,https://www.redbus.in/bus-tickets/hyderabad-to-addanki
+Kadamba Transport Corporation Limited (KTCL),Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa
+Kadamba Transport Corporation Limited (KTCL),Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune
+Kadamba Transport Corporation Limited (KTCL),Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa
+Kadamba Transport Corporation Limited (KTCL),Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa
+Kadamba Transport Corporation Limited (KTCL),Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore
+Kadamba Transport Corporation Limited (KTCL),Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai
+Kadamba Transport Corporation Limited (KTCL),Pandharpur to Goa,https://www.redbus.in/bus-tickets/pandharpur-to-goa
+Kadamba Transport Corporation Limited (KTCL),Goa to Pandharpur,https://www.redbus.in/bus-tickets/goa-to-pandharpur
+Kadamba Transport Corporation Limited (KTCL),Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa
+Kadamba Transport Corporation Limited (KTCL),Calangute (goa) to Goa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-goa-airport
+Kadamba Transport Corporation Limited (KTCL),Goa to Kolhapur(Maharashtra),https://www.redbus.in/bus-tickets/goa-to-kolhapur-maharashtra
+Kadamba Transport Corporation Limited (KTCL),Goa to Solapur,https://www.redbus.in/bus-tickets/goa-to-solapur
+Kadamba Transport Corporation Limited (KTCL),Goa to Sangli,https://www.redbus.in/bus-tickets/goa-to-sangli
+Kadamba Transport Corporation Limited (KTCL),Goa Airport to Calangute (goa),https://www.redbus.in/bus-tickets/goa-airport-to-calangute-goa
+Kadamba Transport Corporation Limited (KTCL),Goa to Sangola (Solapur),https://www.redbus.in/bus-tickets/goa-to-sangola
+Kadamba Transport Corporation Limited (KTCL),Sangola (Solapur) to Goa,https://www.redbus.in/bus-tickets/sangola-to-goa
+Kadamba Transport Corporation Limited (KTCL),Mopa Airport to Calangute (goa),https://www.redbus.in/bus-tickets/mopa-airport-to-calangute-goa
+Kadamba Transport Corporation Limited (KTCL),Calangute (goa) to Mopa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-mopa-airport
+Kadamba Transport Corporation Limited (KTCL),Goa to Mopa Airport,https://www.redbus.in/bus-tickets/goa-to-mopa-airport
+Kadamba Transport Corporation Limited (KTCL),Goa to Miraj,https://www.redbus.in/bus-tickets/goa-to-miraj
+Kadamba Transport Corporation Limited (KTCL),Panaji to Goa Airport,https://www.redbus.in/bus-tickets/panaji-to-goa-airport
+Kadamba Transport Corporation Limited (KTCL),Mopa Airport to Goa,https://www.redbus.in/bus-tickets/mopa-airport-to-goa
+Kadamba Transport Corporation Limited (KTCL),Shivamogga to Goa,https://www.redbus.in/bus-tickets/shimoga-to-goa
+Kadamba Transport Corporation Limited (KTCL),Margao to Mopa Airport,https://www.redbus.in/bus-tickets/margoa-to-mopa-airport
+Kadamba Transport Corporation Limited (KTCL),Goa Airport to Goa,https://www.redbus.in/bus-tickets/goa-airport-to-goa
+Kadamba Transport Corporation Limited (KTCL),Goa to Satara,https://www.redbus.in/bus-tickets/goa-to-satara
+Kadamba Transport Corporation Limited (KTCL),Goa to Goa Airport,https://www.redbus.in/bus-tickets/goa-to-goa-airport
+Kadamba Transport Corporation Limited (KTCL),Goa Airport to Panaji,https://www.redbus.in/bus-tickets/goa-airport-to-panaji
+Kadamba Transport Corporation Limited (KTCL),Goa to Shirdi,https://www.redbus.in/bus-tickets/goa-to-shirdi
+Kadamba Transport Corporation Limited (KTCL),Calangute (goa) to Panaji,https://www.redbus.in/bus-tickets/calangute-goa-to-panaji
+Kadamba Transport Corporation Limited (KTCL),Mopa Airport to Margao,https://www.redbus.in/bus-tickets/mopa-airport-to-margoa
+Kadamba Transport Corporation Limited (KTCL),Goa to Shivamogga,https://www.redbus.in/bus-tickets/goa-to-shimoga
+Kadamba Transport Corporation Limited (KTCL),Calangute (goa) to Goa,https://www.redbus.in/bus-tickets/calangute-goa-to-goa
+Kadamba Transport Corporation Limited (KTCL),Belagavi to Goa,https://www.redbus.in/bus-tickets/belagavi-to-goa
+RSRTC,Udaipur to Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur
+RSRTC,Jodhpur to Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer
+RSRTC,Beawar (Rajasthan) to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/beawer-to-jaipur
+RSRTC,Sikar to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/sikar-to-jaipur
+RSRTC,Jaipur (Rajasthan) to Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur
+RSRTC,Aligarh (uttar pradesh) to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur
+RSRTC,Jaipur (Rajasthan) to Aligarh (uttar pradesh),https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh
+RSRTC,Jodhpur to Beawar (Rajasthan),https://www.redbus.in/bus-tickets/jodhpur-to-beawer
+RSRTC,Jaipur (Rajasthan) to Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani
+RSRTC,Kishangarh to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/kishangarh-to-jaipur
+RSRTC,Pali (Rajasthan) to Udaipur,https://www.redbus.in/bus-tickets/pali-to-udaipur
+RSRTC,Udaipur to Pali (Rajasthan),https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan
+RSRTC,Kota(Rajasthan) to Udaipur,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur
+RSRTC,Jaipur (Rajasthan) to Bhilwara,https://www.redbus.in/bus-tickets/jaipur-to-bhilwara
+RSRTC,Sikar to Bikaner,https://www.redbus.in/bus-tickets/sikar-to-bikaner
+RSRTC,Jaipur (Rajasthan) to Bharatpur,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur
+RSRTC,Jaipur (Rajasthan) to Mathura,https://www.redbus.in/bus-tickets/jaipur-to-mathura
+RSRTC,Jaipur (Rajasthan) to Kota(Rajasthan),https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan
+South Bengal State Transport Corporation (SBSTC),Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata
+South Bengal State Transport Corporation (SBSTC),Kolkata to Burdwan,https://www.redbus.in/bus-tickets/kolkata-to-burdwan
+South Bengal State Transport Corporation (SBSTC),Haldia to Calcutta,https://www.redbus.in/bus-tickets/haldia-to-kolkata
+South Bengal State Transport Corporation (SBSTC),Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia
+South Bengal State Transport Corporation (SBSTC),Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur
+South Bengal State Transport Corporation (SBSTC),Kolkata to Arambagh (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-arambagh-west-bengal
+South Bengal State Transport Corporation (SBSTC),Midnapore to Kolkata,https://www.redbus.in/bus-tickets/midnapore-to-kolkata
+South Bengal State Transport Corporation (SBSTC),Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha
+South Bengal State Transport Corporation (SBSTC),Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata
+South Bengal State Transport Corporation (SBSTC),Kolkata to Bankura,https://www.redbus.in/bus-tickets/kolkata-to-bankura
+South Bengal State Transport Corporation (SBSTC),Kolkata to Midnapore,https://www.redbus.in/bus-tickets/kolkata-to-midnapore
+South Bengal State Transport Corporation (SBSTC),Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol
+South Bengal State Transport Corporation (SBSTC),Kolkata to Nimtouri,https://www.redbus.in/bus-tickets/kolkata-to-nimtouri
+South Bengal State Transport Corporation (SBSTC),Jhargram to Kolkata,https://www.redbus.in/bus-tickets/jhargram-to-kolkata
+South Bengal State Transport Corporation (SBSTC),Kolkata to Contai (Kanthi),https://www.redbus.in/bus-tickets/kolkata-to-contai-kanthi
+South Bengal State Transport Corporation (SBSTC),Kolkata to Kolaghat,https://www.redbus.in/bus-tickets/kolkata-to-kolaghat
+South Bengal State Transport Corporation (SBSTC),Kolkata to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/kolkata-to-nandakumar
+South Bengal State Transport Corporation (SBSTC),Kolkata to Mecheda (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-mecheda-west-bengal
+South Bengal State Transport Corporation (SBSTC),Digha to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/digha-to-durgapur
+South Bengal State Transport Corporation (SBSTC),Midnapore to Barasat (West Bengal),https://www.redbus.in/bus-tickets/midnapore-to-barasat-west-bengal
+South Bengal State Transport Corporation (SBSTC),Durgapur (West Bengal) to Digha,https://www.redbus.in/bus-tickets/durgapur-to-digha
+South Bengal State Transport Corporation (SBSTC),Kolkata to Chandipur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-chandipur-west-bengal
+South Bengal State Transport Corporation (SBSTC),Barasat (West Bengal) to Midnapore,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-midnapore
+South Bengal State Transport Corporation (SBSTC),Kolkata to Debra,https://www.redbus.in/bus-tickets/kolkata-to-debra
+South Bengal State Transport Corporation (SBSTC),Kirnahar (West Bengal) to Kolkata,https://www.redbus.in/bus-tickets/kirnahar-west-bengal-to-kolkata
+South Bengal State Transport Corporation (SBSTC),Kolkata to Panskura,https://www.redbus.in/bus-tickets/kolkata-to-panskura
+South Bengal State Transport Corporation (SBSTC),Kolkata to Heria,https://www.redbus.in/bus-tickets/kolkata-to-heria
+South Bengal State Transport Corporation (SBSTC),Digha to Barasat (West Bengal),https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal
+South Bengal State Transport Corporation (SBSTC),Illambazar to Kolkata,https://www.redbus.in/bus-tickets/illambazar-to-kolkata
+South Bengal State Transport Corporation (SBSTC),Kolkata to Suri,https://www.redbus.in/bus-tickets/kolkata-to-suri
+South Bengal State Transport Corporation (SBSTC),Berhampore (West Bengal) to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/berhampore-to-durgapur
+South Bengal State Transport Corporation (SBSTC),Purulia to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/purulia-to-durgapur
+South Bengal State Transport Corporation (SBSTC),Durgapur (West Bengal) to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/durgapur-to-berhampore
+South Bengal State Transport Corporation (SBSTC),Kolkata to Futishanko,https://www.redbus.in/bus-tickets/kolkata-to-futishanko
+South Bengal State Transport Corporation (SBSTC),Kolkata to Kirnahar (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-kirnahar-west-bengal
+South Bengal State Transport Corporation (SBSTC),Durgapur (West Bengal) to Barasat (West Bengal),https://www.redbus.in/bus-tickets/durgapur-to-barasat-west-bengal
+South Bengal State Transport Corporation (SBSTC),Kolkata to Ramnagar (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-ramnagar-west-bengal
+South Bengal State Transport Corporation (SBSTC),Durgapur (West Bengal) to Purulia,https://www.redbus.in/bus-tickets/durgapur-to-purulia
+South Bengal State Transport Corporation (SBSTC),Durgapur (West Bengal) to Bankura,https://www.redbus.in/bus-tickets/durgapur-to-bankura
+South Bengal State Transport Corporation (SBSTC),Kolkata to Ashari,https://www.redbus.in/bus-tickets/kolkata-to-ashari
+South Bengal State Transport Corporation (SBSTC),Barasat (West Bengal) to Digha,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-digha
+HRTC,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HRTC,Chandigarh to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-hamirpur-himachal-pradesh
+HRTC,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+HRTC,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi
+HRTC,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+HRTC,Chamba (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh
+HRTC,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+HRTC,Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala
+HRTC,Delhi to Chamba (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh
+HRTC,Chamba (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-delhi
+HRTC,Kangra to Chandigarh,https://www.redbus.in/bus-tickets/kangra-to-chandigarh
+HRTC,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+HRTC,Delhi to Baddi (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-baddi-himachal-pradesh
+HRTC,Delhi to Solan,https://www.redbus.in/bus-tickets/delhi-to-solan
+HRTC,Delhi to Nalagarh,https://www.redbus.in/bus-tickets/delhi-to-nalagarh
+HRTC,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+HRTC,Palampur to Chandigarh,https://www.redbus.in/bus-tickets/palampur-to-chandigarh
+HRTC,Ghumarwin to Delhi,https://www.redbus.in/bus-tickets/ghumarwin-to-delhi
+HRTC,Chandigarh to Kangra,https://www.redbus.in/bus-tickets/chandigarh-to-kangra
+HRTC,Baddi (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/baddi-himachal-pradesh-to-delhi
+HRTC,Manali to Chandigarh,https://www.redbus.in/bus-tickets/manali-to-chandigarh
+HRTC,Solan to Delhi,https://www.redbus.in/bus-tickets/solan-to-delhi
+HRTC,Chandigarh to Manali,https://www.redbus.in/bus-tickets/chandigarh-to-manali
+HRTC,Delhi to Sarkaghat,https://www.redbus.in/bus-tickets/delhi-to-sarkaghat
+HRTC,Ghumarwin to Chandigarh,https://www.redbus.in/bus-tickets/ghumarwin-to-chandigarh
+HRTC,Chandigarh to Kullu,https://www.redbus.in/bus-tickets/chandigarh-to-kullu
+HRTC,Delhi to Bilaspur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bilaspur-himachal-pradesh
+HRTC,Delhi to Ghumarwin,https://www.redbus.in/bus-tickets/delhi-to-ghumarwin
+HRTC,Chamba (Himachal Pradesh) to Shimla,https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-shimla
+HRTC,Delhi to Palampur,https://www.redbus.in/bus-tickets/delhi-to-palampur
+HRTC,Chandigarh to Reckong Peo (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-reckong-peo-himachal-pradesh
+HRTC,Bilaspur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bilaspur-himachal-pradesh-to-delhi
+HRTC,Sarkaghat to Delhi,https://www.redbus.in/bus-tickets/sarkaghat-to-delhi
+HRTC,Manali to Delhi,https://www.redbus.in/bus-tickets/manali-to-delhi
+KAAC TRANSPORT,Diphu to Guwahati,https://www.redbus.in/bus-tickets/diphu-to-guwahati
+KAAC TRANSPORT,Guwahati to Diphu,https://www.redbus.in/bus-tickets/guwahati-to-diphu
+KAAC TRANSPORT,Dokmoka to Guwahati,https://www.redbus.in/bus-tickets/dokmoka-to-guwahati
+KAAC TRANSPORT,Bokolia (assam) to Guwahati,https://www.redbus.in/bus-tickets/bokolia-assam-to-guwahati
+KAAC TRANSPORT,Guwahati to Bokolia (assam),https://www.redbus.in/bus-tickets/guwahati-to-bokolia-assam
+KAAC TRANSPORT,Guwahati to Dokmoka,https://www.redbus.in/bus-tickets/guwahati-to-dokmoka
+KAAC TRANSPORT,Langhin (assam) to Guwahati,https://www.redbus.in/bus-tickets/langhin-assam-to-guwahati
+KAAC TRANSPORT,Guwahati to Langhin (assam),https://www.redbus.in/bus-tickets/guwahati-to-langhin-assam
+KAAC TRANSPORT,Diphu to Hamren,https://www.redbus.in/bus-tickets/diphu-to-hamren
+KAAC TRANSPORT,Manja (assam) to Guwahati,https://www.redbus.in/bus-tickets/manja-assam-to-guwahati
+KAAC TRANSPORT,Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam
+KAAC TRANSPORT,Hamren to Diphu,https://www.redbus.in/bus-tickets/hamren-to-diphu
+KAAC TRANSPORT,Diphu to Jagiroad,https://www.redbus.in/bus-tickets/diphu-to-jagiroad
+KAAC TRANSPORT,Guwahati to Hamren,https://www.redbus.in/bus-tickets/guwahati-to-hamren
+UPSRTC,Delhi to Bareilly,https://www.redbus.in/bus-tickets/delhi-to-bareilly
+UPSRTC,Bareilly to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi
+UPSRTC,Aligarh (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-delhi
+UPSRTC,Delhi to Aligarh (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-aligarh-uttar-pradesh
+UPSRTC,Lucknow to Allahabad,https://www.redbus.in/bus-tickets/lucknow-to-allahabad
+UPSRTC,Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi
+UPSRTC,Delhi to Farrukhabad (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-farrukhabad-up
+UPSRTC,Farrukhabad (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/farrukhabad-up-to-delhi
+UPSRTC,Badaun to Delhi,https://www.redbus.in/bus-tickets/badaun-to-delhi
+UPSRTC,Allahabad to Lucknow,https://www.redbus.in/bus-tickets/allahabad-to-lucknow
+UPSRTC,Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra
+UPSRTC,Sitapur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sitapur-to-delhi
+UPSRTC,Delhi to Badaun,https://www.redbus.in/bus-tickets/delhi-to-badaun
+UPSRTC,Delhi to Sitapur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-sitapur
+UPSRTC,Agra to Delhi,https://www.redbus.in/bus-tickets/agra-to-delhi
+UPSRTC,Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad
+UPSRTC,Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow
+UPSRTC,Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow
+UPSRTC,Lucknow to Varanasi,https://www.redbus.in/bus-tickets/lucknow-to-varanasi
+UPSRTC,Agra to Bareilly,https://www.redbus.in/bus-tickets/agra-to-bareilly
+UPSRTC,Lucknow to Bareilly,https://www.redbus.in/bus-tickets/lucknow-to-bareilly
+UPSRTC,Bareilly to Agra,https://www.redbus.in/bus-tickets/bareilly-to-agra
+UPSRTC,Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra
+UPSRTC,Varanasi to Lucknow,https://www.redbus.in/bus-tickets/varanasi-to-lucknow
+UPSRTC,Moradabad to Delhi,https://www.redbus.in/bus-tickets/moradabad-to-delhi
+UPSRTC,Kanpur (Uttar Pradesh) to Jhansi,https://www.redbus.in/bus-tickets/kanpur-to-jhansi
+UPSRTC,Delhi to Shahjahanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-shahjahanpur
+UPSRTC,Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi
+UPSRTC,Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow
+UPSRTC,Kanpur (Uttar Pradesh) to Bareilly,https://www.redbus.in/bus-tickets/kanpur-to-bareilly
+UPSRTC,Lucknow to Aligarh (uttar pradesh),https://www.redbus.in/bus-tickets/lucknow-to-aligarh
+UPSRTC,Lucknow to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-kanpur
+UPSRTC,Delhi to Pilibhit,https://www.redbus.in/bus-tickets/delhi-to-pilibhit
+UPSRTC,Lucknow to Ballia,https://www.redbus.in/bus-tickets/lucknow-to-ballia
+UPSRTC,Delhi to Etah (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-etah-up
+UPSRTC,Lucknow to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/lucknow-to-gorakhpur
+UPSRTC,Aligarh (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/aligarh-to-lucknow
+UPSRTC,Aligarh (uttar pradesh) to Agra,https://www.redbus.in/bus-tickets/aligarh-to-agra
+UPSRTC,Bareilly to Dehradun,https://www.redbus.in/bus-tickets/bareilly-to-dehradun
+UPSRTC,Pilibhit to Delhi,https://www.redbus.in/bus-tickets/pilibhit-to-delhi
+UPSRTC,Bareilly to Lucknow,https://www.redbus.in/bus-tickets/bareilly-to-lucknow
+UPSRTC,Delhi to Dehradun,https://www.redbus.in/bus-tickets/delhi-to-dehradun
+UPSRTC,Varanasi to Allahabad,https://www.redbus.in/bus-tickets/varanasi-to-allahabad
+UPSRTC,Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura
+UPSRTC,Jhansi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/jhansi-to-kanpur
+UPSRTC,Dehradun to Bareilly,https://www.redbus.in/bus-tickets/dehradun-to-bareilly
+UPSRTC,Kanpur (Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/kanpur-to-lucknow
+UPSRTC,Aligarh (uttar pradesh) to Greater noida (uttar pradesh),https://www.redbus.in/bus-tickets/aligarh-to-greater-noida
+UPSRTC,Etah (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/etah-up-to-delhi
+WBTC (CTC),Digha to Barasat (West Bengal),https://www.redbus.in/bus-tickets/digha-to-barasat-west-bengal
+WBTC (CTC),Durgapur to Calcutta,https://www.redbus.in/bus-tickets/durgapur-to-kolkata
+WBTC (CTC),Digha to Calcutta,https://www.redbus.in/bus-tickets/digha-to-kolkata
+WBTC (CTC),Kolkata to Digha,https://www.redbus.in/bus-tickets/kolkata-to-digha
+WBTC (CTC),Barasat (West Bengal) to Digha,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-digha
+WBTC (CTC),Kolkata to Suri,https://www.redbus.in/bus-tickets/kolkata-to-suri
+WBTC (CTC),Barasat (West Bengal) to Midnapore,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-midnapore
+WBTC (CTC),Midnapore to Kolkata,https://www.redbus.in/bus-tickets/midnapore-to-kolkata
+WBTC (CTC),Barasat (West Bengal) to Kolaghat,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-kolaghat
+WBTC (CTC),Barasat (West Bengal) to Contai (Kanthi),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-contai-kanthi
+WBTC (CTC),Habra to Digha,https://www.redbus.in/bus-tickets/habra-to-digha
+WBTC (CTC),Barasat (West Bengal) to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-nandakumar
+WBTC (CTC),Kolkata to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-durgapur
+WBTC (CTC),Digha to Habra,https://www.redbus.in/bus-tickets/digha-to-habra
+WBTC (CTC),Midnapore to Barasat (West Bengal),https://www.redbus.in/bus-tickets/midnapore-to-barasat-west-bengal
+WBTC (CTC),Kolkata to Bolpur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-bolpur-west-bengal
+WBTC (CTC),Barasat (West Bengal) to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-durgapur
+WBTC (CTC),Barasat (West Bengal) to Heria,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-heria
+WBTC (CTC),Haldia to Barasat (West Bengal),https://www.redbus.in/bus-tickets/haldia-to-barasat-west-bengal
+WBTC (CTC),Barasat (West Bengal) to Haldia,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-haldia
+WBTC (CTC),Haldia to Kolkata,https://www.redbus.in/bus-tickets/haldia-to-kolkata
+WBTC (CTC),Barasat (West Bengal) to Debra,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-debra
+WBTC (CTC),Barasat (West Bengal) to Burdwan,https://www.redbus.in/bus-tickets/barasat-west-bengal-to-burdwan
+WBTC (CTC),Kolkata to Bakkhali,https://www.redbus.in/bus-tickets/kolkata-to-bakkhali
+WBTC (CTC),Kolkata to Purulia,https://www.redbus.in/bus-tickets/kolkata-to-purulia
+WBTC (CTC),Durgapur (West Bengal) to Purulia,https://www.redbus.in/bus-tickets/durgapur-to-purulia
+WBTC (CTC),Habra to Midnapore,https://www.redbus.in/bus-tickets/habra-to-midnapore
+WBTC (CTC),Kolkata to Asansol (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-asansol
+WBTC (CTC),Durgapur (West Bengal) to Barasat (West Bengal),https://www.redbus.in/bus-tickets/durgapur-to-barasat-west-bengal
+WBTC (CTC),Barasat (West Bengal) to Asansol (West Bengal),https://www.redbus.in/bus-tickets/barasat-west-bengal-to-asansol
+WBTC (CTC),Jayrambati (West Bengal) to Barasat (West Bengal),https://www.redbus.in/bus-tickets/jayrambati-west-bengal-to-barasat-west-bengal
+WBTC (CTC),Kolkata to Haldia,https://www.redbus.in/bus-tickets/kolkata-to-haldia
+WBTC (CTC),Habra to Durgapur (West Bengal),https://www.redbus.in/bus-tickets/habra-to-durgapur
+WBTC (CTC),Habra to Nandakumar (west bengal),https://www.redbus.in/bus-tickets/habra-to-nandakumar
+WBTC (CTC),Habra to Kolaghat,https://www.redbus.in/bus-tickets/habra-to-kolaghat
+WBTC (CTC),Kolkata to Mayapur ISKCON,https://www.redbus.in/bus-tickets/kolkata-to-mayapur-iskcon
+WBTC (CTC),Habra to Heria,https://www.redbus.in/bus-tickets/habra-to-heria
+WBTC (CTC),Midnapore to Kolkata Airport,https://www.redbus.in/bus-tickets/midnapore-to-kolkata-airport
